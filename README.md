@@ -7,7 +7,7 @@ I use [SMYCK](http://color.smyck.org/ "SMYCK") for all my vim setup.
     cp smyck.vim ~/.vim/colors
 
 
-Create `.vimrc` with the following lines:
+Create `~/.vimrc` with the following lines:
 
     syntax enable
     set background=dark
@@ -15,7 +15,7 @@ Create `.vimrc` with the following lines:
 
 
 
-Append the following lines into `.bash_profile`
+Append the following lines into `~/.bash_profile`
 
     export CLICOLOR=1
     export LSCOLORS=GxFxCxDxBxegedabagaced
